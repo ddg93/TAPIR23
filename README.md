@@ -6,8 +6,11 @@
 
 
 ### Context:
-
+####Figure 1
 ![alt text](https://github.com/ddg93/TAPIR23/blob/main/mucem_paper.jpg?raw=true)
+
+Fibre-laden flows are encountered in the fabrication of several materials, including High Performance Fibre-reinforced Concrete (Fig. 1.(a), copyright: www.marseille-tourisme.com) and paper (Fig. 1.(b), copyright: Jan Homann, Wikipedia). Also, fibres are effective addictives which enhance the performance of simple and complex fluids where they are dispersed, such as water jets (Fig. 1.(c), (source: Karpikov, 2005)) and mascara (Fig1.(d), copyright: 3D Silk Fiber Mascara, Milky Spoon).
+
 
 ### Roadmap:
 #### Monday
