@@ -10,14 +10,14 @@
 
 ### Roadmap:
 #### Monday
--[ ] Prepare the fibres for the experiments
--[ ] Characterize the fibres: measurements of their shape, aspect ratio, density and Young's modulus.
+- [ ] Prepare the fibres for the experiments
+- [ ] Characterize the fibres: measurements of their shape, aspect ratio, density and Young's modulus.
 #### Tuesday
--[ ] Prepare the fluids for the experiments: low and high viscosity;
--[ ] Characterize the fluids for the experiments: density and viscosity measurements;
--[ ] Characterize the viscous shear flow: PIV measurements;
+- [ ] Prepare the fluids for the experiments: low and high viscosity;
+- [ ] Characterize the fluids for the experiments: density and viscosity measurements;
+- [ ] Characterize the viscous shear flow: PIV measurements;
 #### Wednesday
--[ ] Perform the experiments;
--[ ] Post-process the experiments: measurements of the orientation and deformation of the fibres;
+- [ ] Perform the experiments;
+- [ ] Post-process the experiments: measurements of the orientation and deformation of the fibres;
 #### Thursday
--[ ] Anaylise the results and draw the conclusions.
+- [ ] Anaylise the results and draw the conclusions.
