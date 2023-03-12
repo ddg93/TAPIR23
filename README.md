@@ -7,6 +7,7 @@
 
 ### Context:
 
+![alt text](https://github.com/ddg93/TAPIR23]/blob/main/mucem_paper.jpg?raw=true)
 
 ### Roadmap:
 #### Monday
