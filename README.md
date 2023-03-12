@@ -6,10 +6,12 @@
 
 
 ### Context:
-####Figure 1
+#### Figure 1
 ![alt text](https://github.com/ddg93/TAPIR23/blob/main/mucem_paper.jpg?raw=true)
 
 Fibre-laden flows are encountered in the fabrication of several materials, including High Performance Fibre-reinforced Concrete (Fig. 1.(a), copyright: www.marseille-tourisme.com) and paper (Fig. 1.(b), copyright: Jan Homann, Wikipedia). Also, fibres are effective addictives which enhance the performance of simple and complex fluids where they are dispersed, such as water jets (Fig. 1.(c), (source: Karpikov, 2005)) and mascara (Fig1.(d), copyright: 3D Silk Fiber Mascara, Milky Spoon).
+
+The theory of Jeffery (Jeffery, PRSA, 1922) still represents the most accurate description of the rotational dynamics of an ellipsoid or, through the equivalence of shape of Cox (Cox, JFM, 1971), a fibre suspended in a viscous shear flow. According to Jeffery and as confirmed experimentally in the following years (Taylor, PRSA, 1923; Trevelyan and S. G. Mason, JCS, 1951, Harris and Pittman, JCIS, 1974), an axisymmetrical particle under shear will determine a periodic dynamical system, where its extremities describe one out of infinite and equiprobable, closed orbits, i.e. the Jeffery orbits.
 
 
 ### Roadmap:
