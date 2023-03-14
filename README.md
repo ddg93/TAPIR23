@@ -13,10 +13,6 @@ Fibre-laden flows are encountered in the fabrication of several materials, inclu
 ![alt text](https://github.com/ddg93/TAPIR23/blob/main/mucem_paper.jpg?raw=true)
 
 The theory of Jeffery (Jeffery, PRSA, 1922) still represents the most accurate description of the rotational dynamics of an ellipsoid or, through the equivalence of shape of Cox (Cox, JFM, 1971), a fibre suspended in a viscous shear flow. According to Jeffery and as confirmed experimentally in the following years (Taylor, PRSA, 1923; Trevelyan and S. G. Mason, JCS, 1951, Harris and Pittman, JCIS, 1974), an axisymmetrical particle under shear will determine a periodic dynamical system, where its extremities describe one out of infinite and equiprobable, closed orbits, i.e. the Jeffery orbits (see Video 1 for an example). 
-Moreover, the period of rotation will be:
-![alt text](https://github.com/ddg93/TAPIR23/blob/main/Tjeffery.jpg?raw=true)
-
-where r is the particle aspect ratio, i.e. the ratio between the lenght and the diameter of the fibre, and dot{gamma} is the shear rate.
 
 #### Video 1: Jeffery orbits of a fibre with aspect ratio r=9.01 in the viscous regime:
 
@@ -28,16 +24,24 @@ The experiments of Forgacs and Mason, JCS, 1959 found that flexible fibres suspe
 
 Therefore, this TAPIR aims at building a preliminary experimental characterisation of the rotation of flexible fibres suspended in a viscous shear flow, considering both a purely viscous and a small-inertial regime. 
 
+### The model:
+According to Jeffery, the period of rotation of an axisymmetrical particle suspended in an unbounded viscous shear flow is:
+
+![alt text](https://github.com/ddg93/TAPIR23/blob/main/Tjeffery.jpg?raw=true)
+
+
 ### Roadmap:
 #### Monday
-- [ ] Prepare the fibres for the experiments
+- [x] Prepare the fibres for the experiments
 - [ ] Characterize the fibres: measurements of their shape, aspect ratio, density and Young's modulus.
 #### Tuesday
-- [ ] Prepare the fluids for the experiments: low and high viscosity;
-- [ ] Characterize the fluids for the experiments: density and viscosity measurements;
+- [x] Prepare the fluids for the experiments: low and high viscosity;
+- [x] Characterize the fluids for the experiments: density and viscosity measurements;
 - [ ] Characterize the viscous shear flow: PIV measurements;
 #### Wednesday
 - [ ] Perform the experiments;
 - [ ] Post-process the experiments: measurements of the orientation and deformation of the fibres;
 #### Thursday
 - [ ] Anaylise the results and draw the conclusions (🥳).
+
+### 
