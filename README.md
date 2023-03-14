@@ -34,11 +34,11 @@ Anyway, no model has been effectively derived for a flexible fibre, as previous 
 ### Roadmap:
 #### Monday
 - [x] Prepare the fibres for the experiments
-- [ ] Characterize the fibres: measurements of their shape, aspect ratio, density and Young's modulus.
+- ⌛ Characterize the fibres: measurements of their shape, aspect ratio, density and Young's modulus.
 #### Tuesday
 - [x] Prepare the fluids for the experiments: low and high viscosity;
 - [x] Characterize the fluids for the experiments: density and viscosity measurements;
-- [ ] Characterize the viscous shear flow: PIV measurements;
+- [x] Characterize the viscous shear flow: PIV measurements;
 #### Wednesday
 - [ ] Perform the experiments;
 - [ ] Post-process the experiments: measurements of the orientation and deformation of the fibres;
