@@ -25,10 +25,11 @@ The experiments of Forgacs and Mason, JCS, 1959 found that flexible fibres suspe
 Therefore, this TAPIR aims at building a preliminary experimental characterisation of the rotation of flexible fibres suspended in a viscous shear flow, considering both a purely viscous and a small-inertial regime. 
 
 ### The model:
-According to Jeffery, the period of rotation of an axisymmetrical particle suspended in an unbounded viscous shear flow is:
+According to Jeffery, the period of rotation of a rigid axisymmetrical particle suspended in an unbounded viscous shear flow is:
 
 ![alt text](https://github.com/ddg93/TAPIR23/blob/main/Tjeffery.jpg?raw=true)
 
+Anyway, no model has been effectively derived for a flexible fibre, as previous experimental (Forgacs and Mason, JCS, 1959) and numerical (Zuk et al., JFM, 2021) could only identify universal features of the deformation of these particles within the shear flow. More in detail, Zuk and co-authors classified the possible deformation dynamics in terms of particle aspect ratio r and bending stiffness, finding that particles generally adopt one out of three possible configurations: coiled, locally bent and globally bent.
 
 ### Roadmap:
 #### Monday
